@@ -45,10 +45,13 @@ Here is a bullet list
     * Scissors
 
 Here is a numbered list
-    1. Item 1
-    2. Item 2
-      2. Item 2Alpha
-      2. Item 2Bravo
+1. Random 1
+1. Random 2
+1. Random 3
+   1. Item 3Alpha
+   1. Item 3Bravo
+   1. Item 3Charlie
+
 
 
 
